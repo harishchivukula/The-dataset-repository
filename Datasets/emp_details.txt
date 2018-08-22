@@ -1,0 +1,8 @@
+sachin,10000
+saurav,5000
+yuvraj,12000
+yogesh,9000
+rahul,11000
+maxwell,15000
+mark,20000
+stokes,4000

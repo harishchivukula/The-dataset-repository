@@ -1,0 +1,17 @@
+COLOUR,SIZE,ACT,age,inflated,DIM
+yellow,LARGE,strech,10,T,20
+purple,small,dip,23,T,23
+purple,small,strech,23,T,21
+purple,large,dip,45,F,11
+purple,large,strech,child,F,23
+purple,small,dip,gh,F,22
+purple,small,dip,56,F,25
+purple,small,dip,57,F,26
+purple,small,dip,child,T,27
+yellow,small,dip,adult,T,34
+green,large,dip,adult,T,35
+purple,small,dip,child,T,0
+NA,small,dip,child,T,NA
+yellow,large,dip,child,T,27
+yellow,small,dip,child,T,38
+yellow,small,dip,child,T,
